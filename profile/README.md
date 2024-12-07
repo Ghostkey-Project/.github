@@ -9,3 +9,23 @@ These resoulted on the new Ghostkey suite of tools
 - https://github.com/Ghostkey-Project/Ghostkey_Server
 - https://github.com/Ghostkey-Project/Ghostkey_Depo
 - https://github.com/Ghostkey-Project/Ghostkey_Client
+
+Here’s a revised disclaimer tailored specifically for the cybersecurity community, focusing on ethical use and the potential risks of misuse:
+
+---
+
+## 🚨 Disclaimer
+
+The **Ghostkey project** is an **educational tool** created to study and demonstrate concepts in hardware exploitation, payload delivery, and command-and-control (C2) systems. While its functionality is similar to tools like the USB Rubber Ducky, this project is intended solely for ethical research, educational purposes, and controlled cybersecurity demonstrations.
+
+### Important Notes:
+- **For Ethical Use Only**: This project is designed to assist **cybersecurity professionals** in understanding attack techniques and improving defenses. It is strictly prohibited to use this tool for unauthorized activities or against systems you do not own or have explicit permission to test.
+- **Not Deployment-Ready**: Ghostkey is an experimental project and has not undergone extensive testing or security hardening. Deploying it in real-world environments can lead to unpredictable results and potential legal consequences.
+- **No Responsibility for Misuse**: 
+  - I, the creator, do not condone or support the use of this tool for illegal, unethical, or malicious purposes.
+  - Any misuse of this project, including activities that violate local laws or ethical guidelines, is entirely the responsibility of the user.
+- **Understanding the Risks**: 
+  - Unauthorized use of tools like Ghostkey can cause **serious legal repercussions**, including criminal charges.
+  - Users must ensure compliance with local laws and ethical standards when using or modifying this project.
+
+By cloning, modifying, or using any part of the Ghostkey project, you agree to use it responsibly and understand the potential consequences of misuse.
