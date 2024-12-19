@@ -10,9 +10,6 @@ These resoulted on the new Ghostkey suite of tools
 - https://github.com/Ghostkey-Project/Ghostkey_Depo
 - https://github.com/Ghostkey-Project/Ghostkey_Client
 
-Here’s a revised disclaimer tailored specifically for the cybersecurity community, focusing on ethical use and the potential risks of misuse:
-
----
 
 ## 🚨 Disclaimer
 
